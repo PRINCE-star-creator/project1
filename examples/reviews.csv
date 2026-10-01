@@ -1,0 +1,4 @@
+product_name,brand,category,review_id,review_text,star_rating,author,review_date,source_url
+AeroSound Pro Wireless Earbuds,AeroSound,Audio,demo-001,"Battery life is disappointing but the sound is excellent.",3,Demo User,2026-09-20,https://approved.example/products/aerosound
+AeroSound Pro Wireless Earbuds,AeroSound,Audio,demo-002,"The fit is comfortable and the audio quality is great.",5,Demo User,2026-09-21,https://approved.example/products/aerosound
+Nova X Smartphone,Nova,Phones,demo-003,"The camera is excellent but the battery drains quickly.",3,Demo User,2026-09-22,https://approved.example/products/nova-x
